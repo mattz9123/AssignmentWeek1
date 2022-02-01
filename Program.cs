@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string file = "C:/Users/mattz/source/repos/TicketSystemProject/TicketSystemProject/Files/tickets.txt";
+        string file = "C:/Users/mattz/source/repos/AssignmentWeek1/Files/tickets.txt";
         string choice;
         do
         {
